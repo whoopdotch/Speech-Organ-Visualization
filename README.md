@@ -5,7 +5,7 @@ This still very simplistic project was inspired by [Maya Gan's Body Visualizatio
 
 # Example
 
-![Example](https://whoop.ch/example.png "Example")
+![Example](https://whoop.ch/various/example.png "Example")
 
 And the visualization can be seen in action here:
 
